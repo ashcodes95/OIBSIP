@@ -214,6 +214,60 @@ Contributions are always welcome!
 
 ---
 
+# 📸 Project Screenshots
+
+## 🏠 Project Overview
+
+![Project Overview](assets/project-overview.png)
+
+---
+
+## 📂 Dataset Preview
+
+![Dataset Preview](assets/dataset-preview.png)
+
+---
+
+## 📊 House Price Distribution
+
+![Price Distribution](assets/price-distribution.png)
+
+---
+
+## 🔍 Feature Selection Discussion
+
+![Feature Selection](assets/feature-selection.png)
+
+---
+
+## 🔥 Correlation Heatmap
+
+![Correlation Heatmap](assets/correlation-heatmap.png)
+
+---
+
+## 📈 Actual vs Predicted Prices
+
+![Actual vs Predicted](assets/actual-vs-predicted.png)
+
+---
+
+## 📉 Residual Plot
+
+![Residual Plot](assets/residual-plot.png)
+
+---
+
+## 📋 Feature Importance (Model Coefficients)
+
+![Feature Importance](assets/feature-importance.png)
+
+---
+
+## ⚖️ Regression Model Comparison
+
+![Model Comparison](assets/model-comparison.png)
+
 ## 📬 Contact
 
 If you have any suggestions or feedback, feel free to connect!
