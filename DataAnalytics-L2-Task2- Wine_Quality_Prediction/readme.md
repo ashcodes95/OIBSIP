@@ -197,97 +197,97 @@ These features contribute the most toward predicting wine quality.
 
 ## 📌 Dataset Inspection
 
-![Dataset Inspection](Screenshot%202026-08-07%20000628.png)
+![Dataset Inspection](assets/Screenshot%202026-08-07%20000628.png)
 
 ---
 
 ## 📌 Dataset Information & Statistics
 
-![Dataset Information](Screenshot%202026-08-07%20000640.png)
+![Dataset Information & Statistics](assets/Screenshot%202026-08-07%20000640.png)
 
 ---
 
 ## 📌 Wine Quality Distribution
 
-![Wine Quality Distribution](Screenshot%202026-08-07%20000647.png)
+![Wine Quality Distribution](assets/Screenshot%202026-08-07%20000647.png)
 
 ---
 
 ## 📌 Exploratory Data Analysis (EDA)
 
-![EDA](Screenshot%202026-08-07%20000703.png)
+![Exploratory Data Analysis](assets/Screenshot%202026-08-07%20000703.png)
 
 ---
 
 ## 📌 Correlation Heatmap
 
-![Correlation Heatmap](Screenshot%202026-08-07%20000709.png)
+![Correlation Heatmap](assets/Screenshot%202026-08-07%20000709.png)
 
 ---
 
 ## 📌 Class Imbalance Discussion
 
-![Class Imbalance Discussion](Screenshot%202026-08-07%20000714.png)
+![Class Imbalance Discussion](assets/Screenshot%202026-08-07%20000714.png)
 
 ---
 
 ## 📌 Feature Engineering
 
-![Feature Engineering](Screenshot%202026-08-07%20000718.png)
+![Feature Engineering](assets/Screenshot%202026-08-07%20000718.png)
 
 ---
 
 ## 📌 Train-Test Split & Feature Scaling
 
-![Train-Test Split](Screenshot%202026-08-07%20000728.png)
+![Train-Test Split & Feature Scaling](assets/Screenshot%202026-08-07%20000728.png)
 
 ---
 
 ## 📌 Training Machine Learning Models
 
-![Training Models](Screenshot%202026-08-07%20000733.png)
+![Training Machine Learning Models](assets/Screenshot%202026-08-07%20000733.png)
 
 ---
 
 ## 📌 Random Forest Evaluation
 
-![Random Forest Evaluation](Screenshot%202026-08-07%20000740.png)
+![Random Forest Evaluation](assets/Screenshot%202026-08-07%20000740.png)
 
 ---
 
 ## 📌 Random Forest Confusion Matrix
 
-![Random Forest Confusion Matrix](Screenshot%202026-08-07%20000744.png)
+![Random Forest Confusion Matrix](assets/Screenshot%202026-08-07%20000744.png)
 
 ---
 
 ## 📌 SGD Classifier Evaluation
 
-![SGD Evaluation](Screenshot%202026-08-07%20000752.png)
+![SGD Classifier Evaluation](assets/Screenshot%202026-08-07%20000752.png)
 
 ---
 
-## 📌 SGD Confusion Matrix
+## 📌 SGD Classifier Confusion Matrix
 
-![SGD Confusion Matrix](Screenshot%202026-08-07%20000803.png)
+![SGD Classifier Confusion Matrix](assets/Screenshot%202026-08-07%20000803.png)
 
 ---
 
 ## 📌 Support Vector Classifier Confusion Matrix
 
-![SVC Confusion Matrix](Screenshot%202026-08-07%20000811.png)
+![Support Vector Classifier Confusion Matrix](assets/Screenshot%202026-08-07%20000811.png)
 
 ---
 
 ## 📌 Feature Importance - Random Forest
 
-![Feature Importance](Screenshot%202026-08-07%20000816.png)
+![Feature Importance - Random Forest](assets/Screenshot%202026-08-07%20000816.png)
 
 ---
 
-## 📌 Performance Comparison
+## 📌 Performance Comparison & Final Recommendation
 
-![Performance Comparison](Screenshot%202026-08-07%20000830.png)
+![Performance Comparison & Final Recommendation](assets/Screenshot%202026-08-07%20000830.png)
 
 ---
 
